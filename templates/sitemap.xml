@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/</loc>
+		<lastmod>2025-03-19T16:27:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/login</loc>
+		<lastmod>2025-03-19T16:37:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/registration</loc>
+		<lastmod>2025-03-19T16:39:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/mykeywords</loc>
+		<lastmod>2025-03-19T16:38:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/allkeywords</loc>
+		<lastmod>2025-03-19T16:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/profile</loc>
+		<lastmod>2025-03-19T16:39:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://legisflow.tech.tilda.ws/summary</loc>
+		<lastmod>2025-03-19T16:39:51+00:00</lastmod>
+	</url>
+</urlset>
